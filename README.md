@@ -13,7 +13,7 @@ I'm a passionate Computer Science undergraduate with a knack for transforming id
 
 ---
 
-- 🔭 Currently working as **Full-Stack Developer and Data Science Enthusiast** at ****
+- 🔭 Full-Stack Developer and Data Science Enthusiast
 - 🌱 Learning: **Delving deep into the world of AI technologies and experimenting with cutting-edge machine learning frameworks.**
 - 💬 Ask me about: **Full-stack development, data analytics, and machine learning techniques.**
 - 📍 Based in: **Pune, India**
