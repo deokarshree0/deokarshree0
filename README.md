@@ -18,6 +18,6 @@ I'm a passionate Computer Science undergraduate with a knack for transforming id
 - 💬 Ask me about: **Full-stack development, data analytics, and machine learning techniques.**
 - 📍 Based in: **Pune, India**
 - 📫 Reach me: [deokarshree0@gmail.com](mailto:deokarshree0@gmail.com)
-- ⚡ Fun fact: I once built a web app for tracking my favorite recipes, combining my love for coding with my passion for cooking!
+- ⚡ Fun fact: I speak 8 languages—five of them are for computers (Java, Python, C++, C, PHP), and three are human (Hindi, Marathi, and English)!
 
 ---
